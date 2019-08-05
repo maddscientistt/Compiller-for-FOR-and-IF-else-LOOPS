@@ -1,0 +1,23 @@
+#include<iostream.h>
+#include<conio.h>
+
+int main()
+{
+	int a,b;
+	int **p;	
+	for(a=1;a<5;c++)
+	{
+		a=a-b;
+		if(a){
+			a=b;
+		}
+		else{
+			b=a;
+		}
+		
+	}
+		cout<<a;
+		cout<<"done";
+}
+
+
